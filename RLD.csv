@@ -1,0 +1,9 @@
+,color_vision_r_b,color_vision_r_g,color_vision_r_r,headache,near_reading_problems,far_reading_problems,watering_eyes,dizziness,eye_strain,age,gender,spokes_r,long_range_vision_r,short_range_vision_r
+0,1.0,0.0,0.0,No,Yes,Yes,Yes,No,Yes,18,Female,1,5,2
+1,0.0,0.0,1.0,No,Yes,No,No,Yes,No,18,Female,3,3,3
+2,0.0,1.0,0.0,No,Yes,Yes,Yes,No,No,19,Male,1,2,5
+3,0.0,1.0,0.0,Yes,No,Yes,Yes,Yes,Yes,20,Male,1,4,3
+4,1.0,0.0,0.0,Yes,Yes,Yes,Yes,No,Yes,20,Female,5,5,5
+5,1.0,0.0,0.0,Yes,Yes,Yes,Yes,No,Yes,20,Female,5,5,5
+6,0.0,1.0,0.0,Yes,Yes,Yes,Yes,Yes,Yes,20,Female,3,4,5
+7,0.0,1.0,0.0,Yes,Yes,Yes,Yes,Yes,Yes,20,Female,3,4,5

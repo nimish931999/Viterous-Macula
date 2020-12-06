@@ -1,0 +1,18 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1.1.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1,age,color_vision_l,color_vision_r,dizziness,eye_strain,far_reading_problems,gender,headache,long_range_vision_l,long_range_vision_r,near_reading_problems,short_range_vision_l,short_range_vision_r,spokes_l,spokes_r,watering_eyes
+0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20,Red,Red,Yes,No,No,Male,Yes,4,4,Yes,3,5,4,4,Yes
+1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,21,Green,Green,No,Yes,Yes,Female,No,3,5,Yes,4,4,4,5,No
+2,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,,,20,Both,Both,No,Yes,No,Female,No,3,3,Yes,5,4,4,5,No
+3,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,,,,20,Green,Green,Yes,No,Yes,Female,Yes,5,5,Yes,5,5,4,4,Yes
+4,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,,,,42,Red,Red,Yes,Yes,No,Female,Yes,7,7,Yes,2,2,3,3,Yes
+5,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,,,,,,42,Red,Red,Yes,Yes,No,Female,Yes,7,7,Yes,2,2,3,3,Yes
+6,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,,,,,,,42,Red,Red,Yes,Yes,No,Female,Yes,7,7,Yes,2,2,3,3,Yes
+7,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,,,,,,,,42,Red,Red,Yes,Yes,No,Female,Yes,7,7,Yes,2,2,3,3,Yes
+8,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,,,,,,,,,42,Red,Red,Yes,Yes,No,Female,Yes,7,7,Yes,2,2,3,3,Yes
+9,9.0,9.0,9.0,9.0,9.0,9.0,9.0,,,,,,,,,,42,Red,Red,Yes,Yes,No,Male,Yes,7,7,Yes,6,6,1,1,Yes
+10,10.0,10.0,10.0,10.0,10.0,10.0,,,,,,,,,,,20,Green,Green,No,No,Yes,Female,Yes,4,3,Yes,3,4,3,4,Yes
+11,11.0,11.0,11.0,11.0,11.0,,,,,,,,,,,,20,Red,Green,Yes,No,No,Female,Yes,2,4,Yes,3,4,1,4,Yes
+12,12.0,12.0,12.0,12.0,,,,,,,,,,,,,20,Red,Green,Yes,No,No,Female,Yes,2,4,Yes,3,4,1,4,Yes
+13,13.0,13.0,13.0,,,,,,,,,,,,,,20,Red,Green,Yes,No,No,Female,Yes,2,4,Yes,3,4,1,4,Yes
+14,14.0,14.0,,,,,,,,,,,,,,,20,Red,Green,Yes,No,No,Female,Yes,2,4,Yes,3,4,1,4,Yes
+15,15.0,,,,,,,,,,,,,,,,20,Red,Green,Yes,No,No,Female,Yes,2,4,Yes,3,4,1,4,Yes
+16,,,,,,,,,,,,,,,,,42,Red,Red,Yes,Yes,No,Male,Yes,7,7,Yes,6,6,5,4,Yes
